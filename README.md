@@ -1,2 +1,8 @@
-# SIte-de-tecnologia
- Projeto site de tecnologia 
+# Projeto site de tecnologia 
+
+<img src="projeto.gif">
+
+---
+
+## 💻 Acompanhem mais projetos meu no GitHub 📲 ✅
+
